@@ -12,6 +12,7 @@ control.
 | **Pentair IntelliCenter** — pool/spa control | [`intellicenter`](https://github.com/joyfulhouse/intellicenter) | [`pyintellicenter`](https://github.com/joyfulhouse/pyintellicenter) |
 | **Thermacell LIV** — mosquito protection | [`thermacell_liv`](https://github.com/joyfulhouse/thermacell_liv) | [`pythermacell`](https://github.com/joyfulhouse/pythermacell) |
 | **EG4** — solar/battery monitoring | [`eg4_web_monitor`](https://github.com/joyfulhouse/eg4_web_monitor) | [`pylxpweb`](https://github.com/joyfulhouse/pylxpweb) |
+| **Brilliant** — in-wall smart panel control | [`brilliant-mqtt`](https://github.com/joyfulhouse/brilliant-mqtt) (on-panel MQTT bridge) | — |
 
 ## Standards
 
